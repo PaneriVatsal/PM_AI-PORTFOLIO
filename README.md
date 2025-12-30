@@ -42,7 +42,7 @@ Welcome to a curated collection of advanced prompts and resources at the interse
 - Product Lead & Team Lead for ARKA (Eco-Friendly E-Cart)
 - Experienced in Product Lifecycle Management (PLM), Go-to-Market (GTM) Strategy, MVP Development, User Story Mapping, and Stakeholder Management
 - Technical expertise in EV Systems, R&D, AI Applications, and Automation
-- Analytics & Tools: Mixpanel, Google Analytics, Jira, Trello, Figma, SQL, MS Excel
+- Analytics & Tools: Mixpanel, Google Analytics, Jira, Figma, MS Excel
 - Soft Skills: Cross-functional Leadership, Negotiation, Public Speaking, Creative Problem Solving
 - Bachelor of Engineering in Electrical Engineering (V.V.P. Engineering College, CGPA: 8.22)
 
