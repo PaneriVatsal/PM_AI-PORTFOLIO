@@ -71,7 +71,7 @@ This repository contains:
 ## 📬 Connect
 
 - Email: panerivatsal@gmail.com
-- LinkedIn: [Vatsal Paneri](https://www.linkedin.com/in/vatsalpaneri)
+- LinkedIn: [Vatsal Paneri](https://www.linkedin.com/in/vatsal-paneri)
 
 ---
 
