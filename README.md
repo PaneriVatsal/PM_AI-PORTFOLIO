@@ -1,5 +1,6 @@
+
 <div align="center">
-  <h2 align="center">Awesome-GPTs-Prompts🪶</h2>
+  <h2 align="center">Awesome-GPTs-Prompts 🪶</h2>
   <p align="center">
     <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts-prompts/main/assets/banner.png">
   </p>
@@ -15,9 +16,6 @@
       <a href="https://www.readme-i18n.com/ai-boost/awesome-prompts?lang=ru">Русский</a> | 
       <a href="https://www.readme-i18n.com/ai-boost/awesome-prompts?lang=zh">中文</a>
   </p>
-  <p align="center">
-    <p align="center"> This repository contains a curated list of awesome prompts on OpenAI GPT store.</p>
-  </p>
   <h4 align="center">
     <a href="https://awesome.re">
       <img src="https://awesome.re/badge.svg" alt="Awesome" />
@@ -28,11 +26,60 @@
   </h4>
 </div>
 
-# 🚀 Welcome to Awesome-GPTs-Prompts! 🌟
+# 🚀 Product Management & AI Innovation Hub
 
-👋 Discover the secret prompts of top GPTs (from the official GPT Store )! Share and explore the most enchanting prompts from renowned GPTs. 🤩
+<div align="center">
+  <b>Vatsal Paneri</b> <br>
+  <i>Aspiring Product Manager | Electrical Engineer | AI & Innovation Fellow</i>
+</div>
 
-🔥 **Features**:
+Welcome to a curated collection of advanced prompts and resources at the intersection of <b>Product Management</b> and <b>Artificial Intelligence</b>. This repository is designed for product leaders, AI enthusiasts, and innovators who want to leverage the power of prompt engineering to build, manage, and scale intelligent products.
+
+---
+
+## 🏆 Professional Summary
+
+- Product Lead & Team Lead for ARKA (Eco-Friendly E-Cart)
+- Experienced in Product Lifecycle Management (PLM), Go-to-Market (GTM) Strategy, MVP Development, User Story Mapping, and Stakeholder Management
+- Technical expertise in EV Systems, R&D, AI Applications, and Automation
+- Analytics & Tools: Mixpanel, Google Analytics, Jira, Trello, Figma, SQL, MS Excel
+- Soft Skills: Cross-functional Leadership, Negotiation, Public Speaking, Creative Problem Solving
+- Bachelor of Engineering in Electrical Engineering (V.V.P. Engineering College, CGPA: 8.22)
+
+---
+
+## 💡 Product Management & AI Focus
+
+- Building and managing AI-driven products from ideation to launch
+- Applying prompt engineering to enhance user experience and product intelligence
+- Researching and implementing Generative AI for business and product innovation
+- Advocating for best practices in product thinking, agile methodologies, and user research
+- Passionate about bridging the gap between technology and real-world impact
+
+---
+
+## 🌟 About This Repository
+
+This repository contains:
+- A curated list of advanced prompts for GPTs and AI agents
+- Community-driven resources for prompt engineering and product management
+- Guides, papers, and tools for building AI-powered products
+- Examples and templates for product managers and AI practitioners
+
+---
+
+## 📬 Connect
+
+- Email: panerivatsal@gmail.com
+- LinkedIn: [Vatsal Paneri](https://www.linkedin.com/in/vatsalpaneri)
+
+---
+
+# 🚀 Awesome-GPTs-Prompts! 🌟
+
+Discover the secret prompts of top GPTs (from the official GPT Store)! Share and explore the most enchanting prompts from renowned GPTs. 🤩
+
+**Features:**
 - **Top GPT Prompts**: Unveil the magic behind the best GPTs! 🥇
 - **Community Sharing**: Join the github repo for exchanging brilliant GPT prompts! 💬
 - **Prompt Showcase**: Got an amazing prompt? Share it and inspire others! ✨
